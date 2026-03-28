@@ -1,5 +1,5 @@
 {
-    "name": "sidu/dapodik-filament",
+    "name": "kartinisoftjepara/dapodik-filament",
     "description": "Plugin Filament untuk integrasi SiDU Dapodik Sync — Widget, Konfigurasi, dan Tombol Sinkronisasi.",
     "type": "library",
     "license": "MIT",
