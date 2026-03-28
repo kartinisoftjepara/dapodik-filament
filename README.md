@@ -10,8 +10,8 @@ Menyediakan Dashboard Widget, Halaman Konfigurasi, dan Tombol Sinkronisasi berba
 ## Prasyarat
 
 ```bash
-composer require sidu/dapodik-sync
-composer require sidu/dapodik-filament
+composer require kartinisoftjepara/dapodik-sync
+composer require kartinisoftjepara/dapodik-filament
 ```
 
 ---
