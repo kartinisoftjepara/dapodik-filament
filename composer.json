@@ -1,0 +1,31 @@
+{
+    "name": "sidu/dapodik-filament",
+    "description": "Plugin Filament untuk integrasi SiDU Dapodik Sync — Widget, Konfigurasi, dan Tombol Sinkronisasi.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SiDU Team",
+            "email": "dev@sidu.local"
+        }
+    ],
+    "require": {
+        "php": "^8.2",
+        "sidu/dapodik-sync": "*",
+        "filament/filament": "~4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sidu\\DapodikFilament\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Sidu\\DapodikFilament\\DapodikFilamentServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
