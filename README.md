@@ -1,9 +1,9 @@
 # README — sidu/dapodik-filament
 
-**Plugin Filament untuk `sidu/dapodik-sync`.**
+**Plugin Filament untuk `kartinisoftjepara/dapodik-sync`.**
 Menyediakan Dashboard Widget, Halaman Konfigurasi, dan Tombol Sinkronisasi berbasis UI siap pakai.
 
-> Paket ini adalah addon opsional. Paket inti adalah `sidu/dapodik-sync`.
+> Paket ini adalah addon opsional. Paket inti adalah `kartinisoftjepara/dapodik-sync`.
 
 ---
 
